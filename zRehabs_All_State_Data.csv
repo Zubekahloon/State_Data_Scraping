@@ -1,0 +1,832 @@
+State_Name           ,Name                                                                            ,Address                                                    ,Contact
+washington           ,The Center For Alcohol and Drug Treatment                                       ,"327 Okanogan Avenue
+                                                                                                       Wenatchee, WA 98801"                                       ,509-662-9673
+washington           ,The Center A Place of HOPE                                                      ,"547 Dayton Street
+                                                                                                       Edmonds, WA 98020"                                         ,888-771-5166
+washington           ,Key Recovery and Life Skills Center                                             ,"10344 14th Avenue South
+                                                                                                       Seattle, WA 98168"                                         ,206-767-0244
+washington           ,Spokane Addiction Recovery Centers Outpatient Services                          ,"1508 West 6th Avenue
+                                                                                                       Spokane, WA 99204"                                         ,509-624-5228
+washington           ,The Recovery Village Ridgefield                                                 ,"888 Hillhurst Road
+                                                                                                       Ridgefield, WA 98642"                                      ,360-857-0007
+washington           ,Lakeside Milam Recovery Centers Outpatient Tacoma                               ,"3315 South 23rd Street Suite 102
+                                                                                                       Tacoma, WA 98405"                                          ,253-272-2242
+washington           ,Royal Life Centers at Spokane Heights                                           ,"524 East Francis Avenue
+                                                                                                       Spokane, WA 99208"                                         ,877-732-6837
+washington           ,Northpoint Seattle                                                              ,"2111 North Northgate Way Suite 101
+                                                                                                       Seattle, WA 98133"                                         ,425-629-0433
+washington           ,Free by the Sea                                                                 ,"25517 Park Avenue
+                                                                                                       Ocean Park, WA 98640"                                      ,(360) 777-7050
+washington           ,Comprehensive Healthcare Yakima Center                                          ,"402 South 4th Avenue
+                                                                                                       Yakima, WA 98902"                                          ,509-575-4084
+washington           ,Olalla Recovery Centers Olalla Guest Lodge                                      ,"12850 Lala Cove Lane Southeast
+                                                                                                       Olalla, WA 98359"                                          ,800-882-6201
+washington           ,Sundown M Ranch                                                                 ,"2280 State Route 821
+                                                                                                       Yakima, WA 98901"                                          ,800-326-7444
+washington           ,Bayview Recovery                                                                ,"2156 Pacific Ave
+                                                                                                       Tacoma, WA 98402"                                          ,855-478-3650
+washington           ,VA Puget Sound Health Care System Seattle VA Medical Center                     ,"1660 South Columbian Way
+                                                                                                       Seattle, WA 98108"                                         ,206-764-2007
+washington           ,Barth Clinic Ellensburg                                                         ,"2411 West Dolarway Road Suite 1
+                                                                                                       Ellensburg, WA 98926"                                      ,509-925-7867
+washington           ,VA Puget Sound Health Care System – Tacoma                                      ,"9600 Veterans Dr SW
+                                                                                                       Tacoma, WA 98498"                                          ,253-582-8440
+washington           ,Skyland Ranch                                                                   ,"43100 Reiter Road
+                                                                                                       Gold Bar, WA 98251"                                        ,360-793-2611
+washington           ,UW Medicine Mental Health and Addiction Services at Harborview                  ,"401 Broadway 1st floor
+                                                                                                       Seattle, Washington 98104"                                 ,206-744-9657
+washington           ,Friends of Youth: Youth and Family Services                                     ,"401 Ballarat Avenue North
+                                                                                                       North Bend, Washington 98045"                              ,425-392-6367
+washington           ,Shipowick-Smith Counseling                                                      ,"11 Spokane Street 100
+                                                                                                       Wenatchee, Washington 98801"                               ,509-667-0679
+washington           ,Northbound Treatment Services                                                   ,"510 2nd Ave W
+                                                                                                       Seattle, WA 98119"                                         ,206-203-1836
+washington           ,Spokane Falls Recovery Center                                                   ,"101 E Magnesium Rd
+                                                                                                       Spokane, WA 99208"                                         ,844-962-2775
+washington           ,Alta Counseling and Testing                                                     ,"1712 6th Avenue
+                                                                                                       Tacoma, WA 98405"                                          ,253-473-7586
+washington           ,YFA Connections Adult Treatment Service                                         ,"22 South Thor Street
+                                                                                                       Spokane, WA 99202"                                         ,509-532-2000
+washington           ,Spokane Regional Health District Opioid Treatment Program                       ,"312 W. 8th Ave.
+                                                                                                       Spokane, WA 99204"                                         ,5093241420
+washington           ,Therapeutic Health Services Summit Branch                                       ,"1116 Summit Avenue
+                                                                                                       Seattle, WA 98101"                                         ,206-323-0930
+washington           ,Matt Talbot Day Center                                                          ,"2313 3rd Avenue
+                                                                                                       Seattle, WA 98121"                                         ,206-256-9865
+washington           ,John Volken Academy                                                             ,"921 Central Avenue
+                                                                                                       Kent, WA 98032"                                            ,855-592-3001
+washington           ,West Sound Treatment Center Port Orchard                                        ,"2475 Bethel Road Southeast
+                                                                                                       Port Orchard, WA 98366"                                    ,360-876-9430
+washington           ,Royal Life Centers at Cascade Heights                                           ,"14525 North Newport Highway
+                                                                                                       Mead, WA 99021"                                            ,509-596-2269
+washington           ,Alternative Counseling Kent                                                     ,"19435 68th Avenue South Suite S-109
+                                                                                                       Kent, WA 98032"                                            ,425-251-1933
+washington           ,MERIT Resource Services                                                         ,"7510 West Deschutes Place
+                                                                                                       Kennewick, WA 99336"                                       ,509-579-0738
+washington           ,Center for Discovery Edmonds                                                    ,"7511 176th Street Southwest
+                                                                                                       Edmonds, WA 98026"                                         ,8773852985
+washington           ,Muckleshoot Indian Tribe Behavioral Health                                      ,"17500 SE 392nd St
+                                                                                                       Auburn, WA 98092"                                          ,2533333605
+washington           ,Native Project Behavioral Health                                                ,"1803 West Maxwell Avenue
+                                                                                                       Spokane, WA 99201"                                         ,509-325-5502
+washington           ,Sound Counseling Services Auburn                                                ,"4238 Auburn Way North
+                                                                                                       Auburn, WA 98002"                                          ,206-901-2000
+washington           ,Pierce County Alliance                                                          ,"510 Tacoma Avenue South
+                                                                                                       Tacoma, WA 98402"                                          ,253-572-4750
+washington           ,Columbia River Mental Health Main Clinic                                        ,"6926 Northeast Fourth Plain Boulevard
+                                                                                                       Vancouver, WA 98661"                                       ,360-993-3000
+washington           ,Sea Mar Everett Behavioral Health                                               ,"5007 Claremont Way
+                                                                                                       Everett, WA 98203"                                         ,425-609-5505
+washington           ,Sea Mar CSNW Fourth Plain                                                       ,"1601 East Fourth Plain Boulevard Building 17 Suite B222
+                                                                                                       Vancouver, WA 98661"                                       ,360-558-5795
+washington           ,Ideal Option Bellevue                                                           ,"1215 120th Avenue Northeast Suite 201
+                                                                                                       Bellevue, WA 98005"                                        ,877-522-1275
+washington           ,American Lake VA Medical Center                                                 ,"9600 Veterans Drive Southwest
+                                                                                                       Tacoma, WA 98498"                                          ,800-329-8387
+washington           ,Skagit Community Detox Center                                                   ,"201 Lila Lane
+                                                                                                       Burlington, WA 98233"                                      ,360-757-7738
+washington           ,Lakeside Milam Recovery Centers Outpatient                                      ,"6725 116th Avenue Northeast Suite 110
+                                                                                                       Kirkland, WA 98033"                                        ,425-822-5095
+washington           ,Hazelden Betty Ford Foundation                                                  ,"1231 116th Ave NE Ste. 410
+                                                                                                       Bellevue, WA 98004"                                        ,855-336-1677
+washington           ,Valley Cities Pike’s Place Clinic                                               ,"1537 Western Ave
+                                                                                                       Seattle, WA 98101"                                         ,253-833-7444
+washington           ,Discover Recovery Treatment Center                                              ,"800 Washington Avenue North long-beach
+                                                                                                       Long Beach, WA 98631"                                      ,844-418-8526
+washington           ,Spokane Treatment and Recovery Services                                         ,"105 West 3rd Avenue
+                                                                                                       Spokane, WA 99201"                                         ,509-570-7250
+washington           ,Tacoma Pierce County Health Department                                          ,"3629 South D Street
+                                                                                                       Tacoma, WA 98418"                                          ,253-649-1500
+washington           ,Northwest Resources Shelton 1 Clinic                                            ,"235 South 3rd Street
+                                                                                                       Shelton, WA 98584"                                         ,360-426-0890
+washington           ,The Healing Lodge of the Seven Nations                                          ,"5600 East 8th Avenue
+                                                                                                       Spokane Valley, WA 99212"                                  ,509-533-6910
+washington           ,American Behavioral Health Systems Port Angeles Residential Inpatient Services  ,"825 East 5th Street
+                                                                                                       Port Angeles, WA 98362"                                    ,360-477-4795
+washington           ,Family Health Center Grade Street Campus                                        ,"621 Grade Street
+                                                                                                       Kelso, WA 98626"                                           ,360-425-9210
+washington           ,Kent Comprehensive Treatment Center                                             ,"21851 84th Avenue South
+                                                                                                       Kent, WA 98032"                                            ,425-947-2462
+washington           ,Capital Recovery Center                                                         ,"1000 Cherry Street Southeast
+                                                                                                       Olympia, WA 98501"                                         ,360-357-2582
+washington           ,Eugenia Center Mental Health Services                                           ,"151 North Market Boulevard c
+                                                                                                       Chehalis, WA 98532"                                        ,360-948-0203
+washington           ,Sea Mar Community Health Centers Renacer Youth Treatment Center                 ,"10001 17th Place South
+                                                                                                       Seattle, WA 98168"                                         ,206-766-6969
+washington           ,Consejo Counseling and Referral Service Tacoma                                  ,"5915 Orchard Street West
+                                                                                                       Tacoma, WA 98467"                                          ,253-414-7461
+washington           ,New Freedom Recovery Center                                                     ,"10215 214th Avenue East
+                                                                                                       Bonney Lake, WA 98391"                                     ,253-862-7374
+washington           ,Starting Point                                                                  ,"801 Grand Boulevard
+                                                                                                       Vancouver, WA 98661"                                       ,360-696-2010
+washington           ,Thurston County Drug Court Program                                              ,"2000 Lakeridge Drive Southwest
+                                                                                                       Olympia, WA 98502"                                         ,360-357-2482
+washington           ,West Sound Treatment Center Bremerton                                           ,"4060 Wheaton Way Suite F
+                                                                                                       Bremerton, WA 98310"                                       ,360-876-9430
+washington           ,YVFWC Behavioral Health Services                                                ,"918 East Mead Avenue
+                                                                                                       Yakima, WA 98903"                                          ,509-453-1344
+washington           ,Mountlake Terrace Alcohol and Drug Treatment and Rehab                          ,"21907 64th Avenue West Suite 310
+                                                                                                       Mountlake Terrace, WA 98043"                               ,425-289-1600
+washington           ,Kent Comprehensive Treatment Center                                             ,"21851 84th Avenue South Suite 101
+                                                                                                       Kent, WA 98032"                                            ,844-222-4640
+washington           ,Evergreen Health Behavioral Health Services                                     ,"11800 Northeast 128th Street Suite 200
+                                                                                                       Kirkland, WA 98034"                                        ,4258993300
+washington           ,Apple Valley Counseling Services in Yakima                                      ,"611 West A Street
+                                                                                                       Yakima, WA 98902"                                          ,509-452-1000
+washington           ,Pioneer Center East                                                             ,"3400 West Garland Avenue
+                                                                                                       Spokane, WA 99205"                                         ,509-325-2355
+washington           ,Ideal Option East Francis                                                       ,"208 East Francis Avenue
+                                                                                                       Spokane, WA 99208"                                         ,877-522-1275
+washington           ,Colonial Clinic                                                                 ,"910 North Washington Street Suite 210
+                                                                                                       Spokane, WA 99201"                                         ,509-327-9831
+washington           ,Ryther                                                                          ,"2400 Northeast 95th Street
+                                                                                                       Seattle, WA 98115"                                         ,206-525-5050
+washington           ,Fairfax Behavioral Health Monroe                                                ,"14701 179th Avenue Southeast
+                                                                                                       Monroe, WA 98272"                                          ,360-365-5300
+washington           ,Asian Counseling Treatment Services                                             ,"9100 Bridgeport Way SW
+                                                                                                       Lakewood, WA 98499"                                        ,253-302-3826
+washington           ,Kent Youth and Family Services                                                  ,"232 2nd Avenue South Suite 201
+                                                                                                       Kent, WA 98032"                                            ,253-859-0300
+washington           ,Evergreen Recovery Centers Grand Avenue                                         ,"2732 Grand Avenue
+                                                                                                       Everett, WA 98201"                                         ,425-259-5842
+washington           ,Rainier Springs                                                                 ,"2805 NE 129th St
+                                                                                                       Vancouver, WA 98686"                                       ,360-356-1890
+washington           ,We Care Daily Clinics                                                           ,"2818 Auburn Way North
+                                                                                                       Auburn, WA 98002"                                          ,253-999-5750
+washington           ,Sea Mar Community Health Centers Aberdeen Behavioral Health Clinic              ,"1813 Sumner Avenue
+                                                                                                       Aberdeen, WA 98520"                                        ,360-538-1461
+washington           ,Evergreen Recovery Centers Summit Avenue                                        ,"2601 Summit Avenue Building A
+                                                                                                       Everett, WA 98201"                                         ,425-493-5310
+washington           ,Olympic Personal Growth Center                                                  ,"390 East Cedar Street
+                                                                                                       Sequim, WA 98382"                                          ,360-681-8463
+washington           ,American Behavioral Health Systems Spokane Washington on Cozza                  ,"44 East Cozza Drive
+                                                                                                       Spokane, WA 99208"                                         ,509-325-6800
+washington           ,Barth Clinic Treatment                                                          ,"201 East Lincoln Avenue Suite 100
+                                                                                                       Yakima, WA 98901"                                          ,8774575657
+washington           ,HarborCrest Behavioral Health                                                   ,"1006 North H Street
+                                                                                                       Aberdeen, WA 98520"                                        ,877-346-8253
+washington           ,James Oldham Treatment Center                                                   ,"201 Highland Drive
+                                                                                                       Buena, WA 98953"                                           ,509-865-6705
+washington           ,Coastal Treatment Services                                                      ,"12835 NE Bel-Red Road
+                                                                                                       Suite 145
+                                                                                                       Bellevue, WA 98005"                                        ,425-646-4406
+washington           ,James Oldham Treatment Center                                                   ,"201 Highland Drive
+                                                                                                       Buena, WA 98953"                                           ,509-865-6705
+washington           ,Associated Behavioral Health Care Bellevue                                      ,"1800 112th Avenue Northeast Suite 150W
+                                                                                                       Bellevue, WA 98004"                                        ,425-646-7279
+washington           ,Set Free NW Chehalis                                                            ,"3149 Jackson Highway
+                                                                                                       Chehalis, WA 98532"                                        ,360-310-0577
+washington           ,Friends of Youth Issaquah                                                       ,"414 Front Street North
+                                                                                                       Issaquah, WA 98027"                                        ,425-392-6367
+washington           ,Sunrise Community Mental Health Skagit                                          ,"2500 East College Way
+                                                                                                       Mount Vernon, WA 98273"                                    ,360-336-3762
+washington           ,Therapeutic Health Services Rainier Branch                                      ,"5802 Rainier Avenue South
+                                                                                                       Seattle, WA 98118"                                         ,206-723-1980
+washington           ,Sun Ray Court Mens Program                                                      ,"518 South Browne Street
+                                                                                                       Spokane, WA 99204"                                         ,509-456-5465
+washington           ,Frontier Behavioral Health Foothills Evaluation                                 ,"505 North Foothills Drive East
+                                                                                                       Spokane, WA 99207"                                         ,509-838-4651
+washington           ,Daybreak Youth Services Spokane Inpatient                                       ,"628 South Cowley Street
+                                                                                                       Spokane, WA 99202"                                         ,5096243227
+washington           ,Breakthrough Recovery Group Mental Health and Substance Abuse Treatment         ,"11711 East Sprague Avenue Suite D-4
+                                                                                                       Spokane, WA 99206"                                         ,509-927-6838
+washington           ,Seattle VA Medical Center                                                       ,"1660 South Columbian Way
+                                                                                                       Seattle, WA 98108"                                         ,800-329-8387
+washington           ,Lourdes Medical Center                                                          ,"520 North 4th Avenue
+                                                                                                       Pasco, WA 99301"                                           ,509-547-7704
+washington           ,BHC Fairfax Behavioral Health Kirkland                                          ,"10200 Northeast 132nd Street
+                                                                                                       Kirkland, WA 98034"                                        ,425-821-2000
+washington           ,Consejo Counseling and Referral Service Kent                                    ,"515 West Harrison Street
+                                                                                                       Suite 109
+                                                                                                       Kent, WA 98032"                                            ,2064614880
+washington           ,Youth Eastside Services                                                         ,"999 164th Avenue Northeast
+                                                                                                       Bellevue, WA 98008"                                        ,425-747-4937
+washington           ,Therapeutic Health Services Eastside Branch                                     ,"1412 140th Place Northeast
+                                                                                                       Bellevue, WA 98007"                                        ,425-747-7892
+washington           ,The Recovery Village Ridgefield Detox Center                                    ,"5114 NE 94th Ave
+                                                                                                       Vancouver, WA 98662"                                       ,8886128959
+washington           ,Ideal Option Vancouver                                                          ,"406 SE 131st Ave
+                                                                                                       Ste. #104
+                                                                                                       Vancouver, WA 98683"                                       ,877-522-1275
+washington           ,New Horizon Care Centers Isabella House                                         ,"2308 West 3rd Avenue
+                                                                                                       Spokane, WA 99201"                                         ,509-624-1244
+washington           ,Mount Vernon VA Clinic                                                          ,"307 South 13th Street Suite 200
+                                                                                                       Mount Vernon, WA 98274"                                    ,360-848-8500
+washington           ,MultiCare Behavioral Health Puyallup                                            ,"325 East Pioneer
+                                                                                                       Puyallup, WA 98372"                                        ,253-697-8400
+washington           ,Lifeline Connections Vancouver                                                  ,"1601 East 4th Plain Boulevard Bldg. 17, Ste. A212
+                                                                                                       Vancouver, WA 98661"                                       ,360-397-8246
+washington           ,Newport Academy Kirkland                                                        ,"12029 113th Avenue Northeast
+                                                                                                       Kirkland, WA 98034"                                        ,855-431-3055
+washington           ,Northpoint Washington Edmonds                                                   ,"7416 212th Street Southwest
+                                                                                                       Edmonds, WA 98026"                                         ,888-663-7106
+washington           ,Royal Life Centers at Puget Sound                                               ,"1723 Bonney Avenue
+                                                                                                       Sumner, WA 98390"                                          ,877-732-6837
+washington           ,Asian Counseling and Referral Service Main Office Seattle                       ,"3639 Martin Luther King Junior Way South
+                                                                                                       Seattle, WA 98108"                                         ,206-695-7600
+washington           ,Daybreak Youth Services Outpatient Spokane                                      ,"200 North Mullan Road Suite 120
+                                                                                                       Spokane, WA 99206"                                         ,509-927-1688
+washington           ,VA Puget Sound Health Care North Olympic Peninsula Clinic                       ,"1114 Georgiana Street
+                                                                                                       Port Angeles, WA 98362"                                    ,360-565-7420
+washington           ,Ryther Child Center Seattle                                                     ,"2400 NE 95th Street
+                                                                                                       Seattle, WA 98115"                                         ,206-525-5050
+washington           ,Sea Mar Community Health Centers Bellevue Behavioral Health Clinic              ,"3801 150th Avenue Southeast
+                                                                                                       Bellevue, WA 98006"                                        ,425-460-7114
+washington           ,Associated Behavioral Health Care North Seattle                                 ,"2111 North Northgate Way Suite 212
+                                                                                                       Seattle, WA 98133"                                         ,206-781-2661
+washington           ,Behavioral Health Resources Shelton                                             ,"110 West K Street
+                                                                                                       Shelton, WA 98584"                                         ,360-426-1696
+washington           ,Triumph Treatment Services Casita                                               ,"605 Superior Lane
+                                                                                                       Yakima, WA 98902"                                          ,509-853-4173
+washington           ,Sea Mar Tacoma Adult Inpatient Treatment Center                                 ,"1415 Center Street
+                                                                                                       Tacoma, WA 98409"                                          ,253-280-9860
+washington           ,Sea Mar Community Health Centers Vancouver Behavioral Health Clinic             ,"7803 NE Fourth Plain Blvd
+                                                                                                       Suite A
+                                                                                                       Vancouver, WA 98662"                                       ,3605664432
+washington           ,Royal Life Centers at The Haven                                                 ,"8649 Martin Way East
+                                                                                                       Lacey, WA 98516"                                           ,877-732-6837
+washington           ,Family Health Center Woodland Clinic                                            ,"1251 Lewis River Road Suite D
+                                                                                                       Woodland, WA 98674"                                        ,360-225-4310
+washington           ,CCS Behavioral Health Center Everett                                            ,"2610 Wetmore Avenue
+                                                                                                       Everett, WA 98201"                                         ,425-258-5270
+washington           ,CCS Recovery Center Marysville                                                  ,"1227 2nd Street
+                                                                                                       Marysville, WA 98270"                                      ,360-651-2366
+washington           ,The Right Choice Counseling                                                     ,"1740 Northeast Riddell Road Suite 170
+                                                                                                       Bremerton, WA 98310"                                       ,360-373-4077
+washington           ,Reflections Counseling                                                          ,"3430 East Highway 101
+                                                                                                       Port Angeles, WA 98362"                                    ,360-452-4062
+washington           ,New Horizon Counseling Downtown Spokane                                         ,"701 East 3rd Avenue
+                                                                                                       Spokane, WA 99202"                                         ,509-838-6092
+washington           ,Serenity Point Counseling Services                                              ,"410 South Wilbur Avenue
+                                                                                                       Walla Walla, WA 99362"                                     ,509-529-6036
+washington           ,Serenity Counseling Services                                                    ,"5005 Pacific Highway East Suite 20
+                                                                                                       Fife, WA 98424"                                            ,253-922-6522
+washington           ,Spokane Comprehensive Treatment Center                                          ,"4305 East Trent Avenue
+                                                                                                       Spokane, WA 99212"                                         ,8448470884
+washington           ,Gateway Counseling Services                                                     ,"140 South Arthur Street Suite 665
+                                                                                                       Spokane, WA 99202"                                         ,509-532-8855
+washington           ,Swedish Addiction Recovery Ballard                                              ,"5300 Tallman Avenue Northwest
+                                                                                                       Seattle, WA 98107"                                         ,2067822700
+washington           ,King County Residential Treatment Program                                       ,"11900 Beacon Avenue South
+                                                                                                       Seattle, WA 98178"                                         ,206-772-6900
+washington           ,Harborview Medical Center Addictions                                            ,"401 Broadway
+                                                                                                       Seattle, WA 98122"                                         ,206-744-9600
+washington           ,Programa SER                                                                    ,"901 South 3rd Street
+                                                                                                       Renton, WA 98057"                                          ,206-387-1240
+washington           ,Lifeline Connections Mount Vernon                                               ,"1413 E. College Way
+                                                                                                       Mount Vernon, WA 98273"                                    ,3603978246
+washington           ,Lakeside Milam Recovery Centers Kirkland Inpatient Treatment                    ,"10322 Northeast 132nd Street
+                                                                                                       Kirkland, WA 98034"                                        ,425-823-3116
+washington           ,Therapeutic Health Services Kent                                                ,"24823 Pacific Highway South Suite 103
+                                                                                                       Kent, WA 98032"                                            ,253-681-0010
+washington           ,Olalla Recovery Centers Gig Harbor Counseling                                   ,"5122 Olympic Drive Suite A-105
+                                                                                                       Gig Harbor, WA 98335"                                      ,253-851-2552
+washington           ,Nooksack Indian Tribe – Genesis II                                              ,"2505 Sulwhanon Drive Building A
+                                                                                                       Everson, WA 98247"                                         ,3603986399
+washington           ,Sea Mar Community Health Centers Bellingham Behavioral Health Clinic            ,"3350 Airport Drive
+                                                                                                       Bellingham, WA 98226"                                      ,360-734-5458
+washington           ,Lake Whatcom Residential and Treatment Center                                   ,"3400 Agate Heights Road
+                                                                                                       Bellingham, WA 98226"                                      ,360-676-6000
+washington           ,New Life Recovery Solutions Bellevue                                            ,"12330 Northeast 8th Street Suite 100
+                                                                                                       Bellevue, WA 98005"                                        ,425-454-2238
+washington           ,Greater Lakes Mental Healthcare Spanaway Clinic                                 ,"113 170th Street South
+                                                                                                       Spanaway, WA 98387"                                        ,253-535-1935
+washington           ,Lakeside Milam Recovery Centers Seattle                                         ,"2815 Eastlake Avenue East Suite 100
+                                                                                                       Seattle, WA 98102"                                         ,206-341-9373
+washington           ,Puyallup Tribal Health Authority                                                ,"2209 East 32nd Street
+                                                                                                       Tacoma, WA 98404"                                          ,253-593-0232
+washington           ,New Horizon Care Centers Sun Ray Court                                          ,"518 South Browne Street
+                                                                                                       Spokane, WA 99204"                                         ,509-456-5465
+washington           ,Alpine Recovery Services                                                        ,"16404 Smokey Point Boulevard Suite 109
+                                                                                                       Arlington, WA 98223"                                       ,360-658-1388
+washington           ,Family Health Center Kelso Clinic                                               ,"300 Oak Street Suite B
+                                                                                                       Kelso, WA 98626"                                           ,360-353-5511
+washington           ,Sea Mar Community Health Centers Monroe Behavioral Health Clinic                ,"14090 Fryelands Boulevard Southeast Suite 347
+                                                                                                       Monroe, WA 98272"                                          ,360-805-3122
+washington           ,Prosperity Wellness Center Residential Services                                 ,"12201 Pacific Ave S
+                                                                                                       Tacoma, WA 98444"                                          ,2534442395
+washington           ,Sea Mar Community Health Centers Puyallup Behavioral Clinic                     ,"12812 101st Avenue Court East # 202
+                                                                                                       Puyallup, WA 98373"                                        ,253-864-4770
+washington           ,Sea Mar Community Health Centers Vancouver Salmon Creek                         ,"14508 Northeast 20th Avenue
+                                                                                                       Vancouver, WA 98686"                                       ,3603979211
+washington           ,Daybreak Youth Services Inpatient Treatment                                     ,"11910 Northeast 154th Street
+                                                                                                       Brush Prairie, WA 98606"                                   ,3607509588
+washington           ,Evergreen Recovery Centers Lynnwood Outpatient                                  ,"4230 198th Street Southwest
+                                                                                                       Lynnwood, WA 98036"                                        ,425-248-4900
+washington           ,Affinity Counseling and Treatment                                               ,"12503 Southeast Mill Plain Boulevard Suite 119-A
+                                                                                                       Vancouver, WA 98684"                                       ,360-314-6507
+washington           ,Lifeline Connections Meriwether Place Office                                    ,"6221 Northeast Fourth Plain Boulevard Suite 120
+                                                                                                       Vancouver, WA 98661"                                       ,360-989-3743
+washington           ,MERIT Resource Services Sunnyside                                               ,"702 East Franklin Avenue
+                                                                                                       Sunnyside, WA 98944"                                       ,509-837-7700
+washington           ,NorthEast Washington Alliance Counseling Services                               ,"165 East Hawthorne Avenue
+                                                                                                       Colville, WA 99114"                                        ,509-684-4597
+washington           ,Vancouver Comprehensive Treatment Center                                        ,"2009 Northeast 117th Street Suite 101
+                                                                                                       Vancouver, WA 98686"                                       ,8889863285
+washington           ,The Recovery Village Ridgefield Detox Center                                    ,"5114 Northeast 94th Avenue
+                                                                                                       Vancouver, WA 98662"                                       ,8447977401
+washington           ,Helping Professionals Wellness Center                                           ,"5007 Northeast Saint Johns Road
+                                                                                                       Vancouver, WA 98661"                                       ,360-687-0693
+washington           ,Cowlitz Tribal Health Seattle                                                   ,"6450 South Center Blvd.
+                                                                                                       Tukwila WA. 98188"                                         ,2064665122
+washington           ,Sea Mar Community Health Centers Tacoma Behavioral Health Clinic                ,"2121 South 19th Street
+                                                                                                       Tacoma, WA 98405"                                          ,253-396-1634
+washington           ,A Positive Alternative                                                          ,"4649 Sunnyside Avenue North Suite 200
+                                                                                                       Seattle, WA 98103"                                         ,206-547-1955
+washington           ,Evergreen Treatment Services South King County Clinic                           ,"1412 Southwest 43rd Street Suite 140
+                                                                                                       Renton, WA 98057"                                          ,425-264-0750
+washington           ,Lakeside Milam Recovery Centers Puyallup                                        ,"405 West Stewart Avenue Suite A
+                                                                                                       Puyallup, WA 98371"                                        ,253-272-2242
+washington           ,Comprehensive Healthcare Pasco                                                  ,"2705 St. Andrews Loop
+                                                                                                       Suite C
+                                                                                                       Pasco, WA 99301"                                           ,509-412-1051
+washington           ,Youth Eastside Services Kirkland                                                ,"11829 97th Avenue Northeast
+                                                                                                       Kirkland, WA 98034"                                        ,425-827-4937
+washington           ,Providence Regional Medical Center – Everett                                    ,"916 Pacific Avenue
+                                                                                                       Everett, WA 98201"                                         ,425-258-7390
+washington           ,Bridgeway Treatment Services                                                    ,"2013 19th Street
+                                                                                                       Everett, WA 98201"                                         ,425-283-5315
+washington           ,American Behavioral Health Systems Residential Inpatient Services Chehalis      ,"500 Southeast Washington Avenue
+                                                                                                       Chehalis, WA 98532"                                        ,360-748-4776
+washington           ,Seattle Sober Living                                                            ,"1808 E Denny Way
+                                                                                                       Seattle, WA 98112"                                         ,206-714-5150
+washington           ,Navos Mental Health and Wellness Center                                         ,"1210 Southwest 136th Street
+                                                                                                       Burien, WA 98166"                                          ,206-257-6600
+washington           ,Somerset Counseling Center                                                      ,"1305 Mansfield Street Suite 6
+                                                                                                       Richland, WA 99352"                                        ,509-942-1624
+washington           ,Portland VA Medical Center Vancouver                                            ,"1601 East 4th Plain Boulevard
+                                                                                                       Vancouver, WA 98661"                                       ,3607591901
+washington           ,Royal Life Centers at Sound Recovery                                            ,"8645 Martin Way East
+                                                                                                       Lacey, WA 98516"                                           ,877-732-6837
+washington           ,Therapeutic Health Services Shoreline Branch                                    ,"16715 Aurora Avenue North Suite 102
+                                                                                                       Shoreline, WA 98133"                                       ,206-546-9766
+washington           ,Family Health Center Toutle River Campus                                        ,"2232 South Silver Lake Road
+                                                                                                       Castle Rock, WA 98611"                                     ,360-274-3262
+washington           ,Consejo Counseling and Referral Service South Park                              ,"8615 14th Avenue South
+                                                                                                       Seattle, WA 98108"                                         ,206-461-4880
+washington           ,Triumph Treatment Services Riel House                                           ,"613 Superior Lane
+                                                                                                       Yakima, WA 98902"                                          ,509-575-4810
+washington           ,MERIT Resource Services Yakima                                                  ,"315 North 2nd Street
+                                                                                                       Yakima, WA 98901"                                          ,509-469-9366
+washington           ,Greater Lakes Mental Healthcare Seeley Lake Lodge                               ,"9108 Lakewood Drive Southwest
+                                                                                                       Lakewood, WA 98499"                                        ,253-581-6202
+washington           ,Assessment and Treatment Associates Pasco                                       ,"9221 Sandifur Parkway Suite D
+                                                                                                       Pasco, WA 99301"                                           ,509-380-5292
+washington           ,Catholic Charities Spokane                                                      ,"12 East 5th Avenue
+                                                                                                       Spokane, WA 99202"                                         ,509-358-4250
+washington           ,North Star Treatment Group                                                      ,"707 S Grady Way #600
+                                                                                                       Renton, WA 98057"                                          ,206-241-1187
+washington           ,Lakeside Milam Recovery Centers Renton                                          ,"1000 Southwest 7th Street Suite B
+                                                                                                       Renton, WA 98057"                                          ,206-248-4358
+washington           ,Hotel California by the Sea Bellevue                                            ,"1601 114th Avenue Southeast
+                                                                                                       Bellevue, WA 98004"                                        ,844-766-8717
+washington           ,MultiCare Behavioral Health                                                     ,"325 East Pioneer Avenue
+                                                                                                       Puyallup, WA 98372"                                        ,253-697-8400
+washington           ,Valley Cities Behavioral Health Care Auburn                                     ,"2704 I Street Northeast
+                                                                                                       Auburn, WA 98002"                                          ,253-833-7444
+washington           ,EvergreenHealth Monroe Recovery Center                                          ,"17880 147th Street Southeast
+                                                                                                       Monroe, WA 98272"                                          ,360-794-1405
+washington           ,New Horizon Counseling Services Spokane Valley                                  ,"15407 East Mission Avenue
+                                                                                                       Spokane Valley, WA 99037"                                  ,509-927-1543
+washington           ,Hotel California by the Sea                                                     ,"1601 114th Avenue Southeast
+                                                                                                       Bellevue, WA 98004"                                        ,425-320-1267
+washington           ,Sea Mar Turning Point Treatment Center Seattle                                  ,"113 23rd Avenue South
+                                                                                                       Seattle, WA 98144"                                         ,206-219-5980
+washington           ,Partners with Families and Children                                             ,"106 West Mission Avenue
+                                                                                                       Spokane, WA 99201"                                         ,509-473-4810
+washington           ,Ideal Option Yakima River Road                                                  ,"602 N 39th Ave
+                                                                                                       Ste. 200
+                                                                                                       Yakima, WA, 98902"                                         ,877-522-1275
+washington           ,Agape Unlimited                                                                 ,"4841 Auto Center Way Suite 101
+                                                                                                       Bremerton, WA 98312"                                       ,360-373-1529
+washington           ,Quinault Indian Nation Roger Saux Health Center                                 ,"1505 Kla Ook Wa Drive
+                                                                                                       Taholah, WA 98587"                                         ,360-276-4405
+washington           ,Olympic Recovery Center                                                         ,"8645 Martin Way East
+                                                                                                       Lacey, WA 98516"                                           ,360-559-2547
+washington           ,Meier Clinics Bothell                                                           ,"22232 17th Avenue Southeast Suite 302
+                                                                                                       Bothell, WA 98021"                                         ,800-698-9317
+washington           ,Cascadia Bountiful Life Addiction Treatment Center                              ,"2817 Wheaton Way Suite 205
+                                                                                                       Bremerton, WA 98310"                                       ,360-373-0155
+washington           ,MERIT Resource Services Ellensburg                                              ,"200 East 3rd Avenue Room 30
+                                                                                                       Ellensburg, WA 98926"                                      ,509-925-9821
+washington           ,Willapa Behavioral Health Long Beach                                            ,"2204 Pacific Avenue North
+                                                                                                       Long Beach, WA 98631"                                      ,360-642-3787
+washington           ,Colville Tribal Alcohol and Drug Program                                        ,"21 Colville Street
+                                                                                                       Nespelem, WA 99155"                                        ,509-634-2200
+washington           ,Pinnacle Peak Institute                                                         ,"1822 Black Lake Boulevard Southwest Suite 101
+                                                                                                       Olympia, WA 98512"                                         ,360-704-0086
+washington           ,Cedar Grove Counseling                                                          ,"806 South Vine Street
+                                                                                                       Port Angeles, WA 98362"                                    ,360-452-2443
+washington           ,A Change Into Recovery                                                          ,"719 East Main Avenue
+                                                                                                       Puyallup, WA 98372"                                        ,253-841-8165
+washington           ,Thunderbird Treatment Center                                                    ,"9236 Renton Avenue South
+                                                                                                       Seattle, WA 98118"                                         ,206-722-7152
+washington           ,Social Treatment Opportunity Programs STOP                                      ,"611 West Cota Street
+                                                                                                       Shelton, WA 98584"                                         ,360-426-5654
+washington           ,Center for Human Services Shoreline 148th                                       ,"14803 15th Avenue Northeast
+                                                                                                       Shoreline, WA 98155"                                       ,206-362-7282
+washington           ,Frontier Behavioral Health Raschko                                              ,"5125 North Market Street
+                                                                                                       Spokane, WA 99217"                                         ,509-458-7450
+washington           ,Galland Ashlock Family Resource Center                                          ,"2323 North Discovery Place
+                                                                                                       Spokane Valley, WA 99216"                                  ,509-747-4174
+washington           ,Yakama Nation Comprehensive Community Alcoholism                                ,"20 Gunnyon Road
+                                                                                                       Toppenish, WA 98948"                                       ,509-865-5121
+washington           ,Cowlitz Indian Tribe Health and Human Services                                  ,"7700 NE 26th Ave.
+                                                                                                       Vancouver, WA 98665"                                       ,3609472247
+washington           ,Northwest Behavioral Clinic                                                     ,"917 Pitcher Street
+                                                                                                       Yakima, WA 98901"                                          ,509-457-8554
+washington           ,Nexus Youth and Families Behavioral Health Services                             ,"1000 Auburn Way South
+                                                                                                       Auburn, WA 98002"                                          ,253-939-2202
+washington           ,CCS Recovery Center Bellingham                                                  ,"515 Lakeway Drive
+                                                                                                       Bellingham, WA 98225"                                      ,360-676-2187
+washington           ,Whatcom County Triage Center                                                    ,"2026 Division Street
+                                                                                                       Bellingham, WA 98226"                                      ,360-676-2020
+washington           ,Waterfront Counseling                                                           ,"228 Cherry Street
+                                                                                                       Blaine, WA 98230"                                          ,360-332-1000
+washington           ,Kitsap Mental Health Services                                                   ,"5455 Almira Drive Northeast
+                                                                                                       Bremerton, WA 98311"                                       ,360-373-5031
+washington           ,Lake Chelan Health                                                              ,"503 East Highland Avenue
+                                                                                                       Chelan, WA 98816"                                          ,509-682-3300
+washington           ,Sauk Suiattle Indian Tribe Medical and Behavioral Health Clinic                 ,"5318 Chief Brown Lane
+                                                                                                       Darrington, WA 98241"                                      ,360-436-0131
+washington           ,Lakeside Milam Recovery Centers Edmonds                                         ,"7935 Lake Ballinger Way
+                                                                                                       Edmonds, WA 98026"                                         ,425-670-3664
+washington           ,Evergreen Recovery Centers Pregnant and Parenting Womens Residential            ,"2601 Summit Avenue Bldg. A
+                                                                                                       Everett, WA 98201"                                         ,425-493-5310
+washington           ,La Esperanza Health Counseling Services                                         ,"20815 67th Avenue West Suite 201
+                                                                                                       Lynnwood, WA 98036"                                        ,425-248-4534
+washington           ,New Traditions                                                                  ,"9045 16th Avenue Southwest
+                                                                                                       Seattle, WA 98106"                                         ,206-762-7207
+washington           ,Rites of Passage NW                                                             ,"142 East Strong Road
+                                                                                                       Shelton, WA 98584"                                         ,360-927-6404
+washington           ,ADEPT Spokane                                                                   ,"1321 North Ash Street
+                                                                                                       Spokane, WA 99201"                                         ,509-327-3120
+washington           ,Sunshine Behavioral Health                                                      ,"1102 South Raymond Road
+                                                                                                       Spokane Valley, WA 99206"                                  ,509-892-4342
+washington           ,THIRA Health                                                                    ,"11400 SE 6th St Ste 200,
+                                                                                                       Bellevue, WA 98004"                                        ,425-650-1044
+washington           ,Eastside Center for Family                                                      ,"2025 112th Avenue Northeast Suite 201
+                                                                                                       Bellevue, WA 98004"                                        ,425-462-8558
+washington           ,Adept Assessment Treatment Center                                               ,"218 North Oak Street
+                                                                                                       Colville, WA 99114"                                        ,509-684-2349
+washington           ,Sunrise Community Behavioral Health Snohomish                                   ,"1021 North Broadway Avenue
+                                                                                                       Everett, WA 98201"                                         ,425-493-5800
+washington           ,Sea Mar Community Health Centers Federal Way Medical Clinic                     ,"31405 18th Avenue South
+                                                                                                       Federal Way, WA 98003"                                     ,253-681-6600
+washington           ,Associated Behavioral Health Care Kent                                          ,"841 Central Avenue North Suite C-215
+                                                                                                       Kent, WA 98032"                                            ,253-867-5344
+washington           ,Evergreen Recovery Centers Lynnwood Outpatient                                  ,"4230 198th Street Southwest
+                                                                                                       Lynnwood, WA 98036"                                        ,425-248-4900
+washington           ,Juanita Center                                                                  ,"627 5th Street
+                                                                                                       Mukilteo, WA 98275"                                        ,425-328-9528
+washington           ,First Things First 123                                                          ,"1905 4th Avenue East Suite B
+                                                                                                       Olympia, WA 98506"                                         ,360-388-0600
+washington           ,True North Thurston County                                                      ,"6005 Tyee Drive Southwest
+                                                                                                       Olympia, WA 98512"                                         ,360-464-6867
+washington           ,Jonathan M Wainwright Memorial VA Medical Center Richland VA Clinic             ,"825 Jadwin Avenue Suite 250, 2nd Floor
+                                                                                                       Richland, WA 99352"                                        ,509-946-1020
+washington           ,Ryther                                                                          ,"2400 Northeast 95th Street
+                                                                                                       Seattle, WA 98115"                                         ,206-525-5050
+washington           ,Step By Step Recovery House Ministries                                          ,"1039 South 128th Street
+                                                                                                       Seattle, WA 98168"                                         ,206-353-7501
+washington           ,Consejo Counseling and Referral Service Shelton                                 ,"627 West Franklin Street
+                                                                                                       Shelton, WA 98584"                                         ,360-763-5610
+washington           ,New Directions Counseling Shelton                                               ,"506 West Franklin Street
+                                                                                                       Shelton, WA 98584"                                         ,360-427-5232
+washington           ,MDC Behavioral Health and Recovery                                              ,"721 Fawcett Avenue Suite 100
+                                                                                                       Tacoma, WA 98402"                                          ,253-593-2740
+washington           ,Western Psychological and Counseling Services Salmon Creek Vancouver            ,"2103 Northeast 129th Street Suite 101
+                                                                                                       Vancouver, WA 98686"                                       ,360-574-9303
+washington           ,Community Resource Group                                                        ,"7901 West Nob Hill Boulevard
+                                                                                                       Yakima, WA 98908"                                          ,509-965-5216
+washington           ,Lutheran Community Services Tri Cities Kennewick                                ,"3321 West Kennewick Avenue Suite 150
+                                                                                                       Kennewick, WA 99336"                                       ,509-735-6446
+washington           ,Tacoma Recovery Cafe                                                            ,"1321 Martin Luther King Jr Way
+                                                                                                       Tacoma, Washington 98405"                                  ,253-533-9361
+washington           ,Imagine Bellevue                                                                ,"13037 Northeast Bel-Red Road Suite 102
+                                                                                                       Bellevue, WA 98005"                                        ,208-369-9511
+washington           ,Follman Counseling Agency                                                       ,"910 South Anacortes Street
+                                                                                                       Burlington, WA 98233"                                      ,360-755-1125
+washington           ,ADEPT Assessment Center Deer Park                                               ,"104 West Crawford Street
+                                                                                                       Deer Park, WA 99006"                                       ,509-276-2797
+washington           ,Forks Community Hospital West End Outreach Services                             ,"551 Bogachiel Way
+                                                                                                       Forks, WA 98331"                                           ,360-374-5011
+washington           ,Family Health Center 14th Avenue Clinic                                         ,"784 14th Avenue
+                                                                                                       Longview, WA 98632"                                        ,360-703-6400
+washington           ,Saint John Medical Center Behavioral Health                                     ,"1615 Delaware Street
+                                                                                                       Longview, WA 98632"                                        ,360-414-2000
+washington           ,Alternatives Professional Counseling                                            ,"203 4th Avenue East Suites 301
+                                                                                                       Olympia, WA 98501"                                         ,360-357-7986
+washington           ,Pioneer Human Services CORP Seattle                                             ,"11900 Beacon Avenue South
+                                                                                                       Seattle, WA 98178"                                         ,206-772-6900
+washington           ,New Start Clinics Spokane                                                       ,"6614 East Main Avenue
+                                                                                                       Spokane, WA 99212"                                         ,509-587-0105
+washington           ,Lifeline Connections Recovery Resource Center                                   ,"9317 Northeast Highway 99 Suite M
+                                                                                                       Vancouver, WA 98665"                                       ,360-787-9315
+washington           ,Sea Mars Vancouver Delaware Behavioral Health Center                            ,"7410 Delaware Lane
+                                                                                                       Vancouver, WA 98664"                                       ,360-566-4402
+washington           ,Catholic Charities Serving Central Wenatchee                                    ,"145 South Worthen Street
+                                                                                                       Wenatchee, WA 98801"                                       ,509-662-6761
+washington           ,Comprehensive Healthcare White Salmon Center                                    ,"432 Northeast Tohomish Street
+                                                                                                       White Salmon, WA 98672"                                    ,509-493-3400
+washington           ,Action Counseling                                                               ,"4911 West Canal Drive
+                                                                                                       Kennewick, WA 99336"                                       ,509-735-7410
+washington           ,Sea Mar CSNW Fourth Plain                                                       ,"1601 East Fourth Plain Boulevard Bldg. 17, Suite B222
+                                                                                                       Vancouver, WA 98661"                                       ,360-558-5795
+washington           ,First Step Community Counseling Services Kennewick                              ,"415 North Morain Street
+                                                                                                       Kennewick, WA 99336"                                       ,509-735-6900
+washington           ,Prosperity Counseling and Services                                              ,"5001 112th St E
+                                                                                                       Tacoma, WA 98446"                                          ,253-536-5448
+washington           ,Social Treatment Opportunity Programs Aberdeen Treatment Center                 ,"114 North Park Street
+                                                                                                       Aberdeen, WA 98520"                                        ,360-533-4997
+washington           ,Sea Mar Community Health Centers Anacortes Behavioral Health Clinic             ,"1004 M Avenue
+                                                                                                       Anacortes, WA 98221"                                       ,360-542-8819
+washington           ,Muckleshoot Indian Tribe Behavioral Health                                      ,"17813 Southeast 392nd Street
+                                                                                                       Auburn, WA 98092"                                          ,253-804-8752
+washington           ,Professional Alcohol and Drug                                                   ,"1800 112th Ave Northeast Suite 150
+                                                                                                       Bellevue, WA 98004"                                        ,425-646-4000
+washington           ,Lummi CARE Program                                                              ,"2530 Kwina Road
+                                                                                                       Bellingham, WA 98226"                                      ,360-312-2420
+washington           ,La Esperanza Health Counseling Services Burien                                  ,"15405 1st Avenue South
+                                                                                                       Burien, WA 98148"                                          ,206-306-2690
+washington           ,Navos Mental Health and Wellness Center                                         ,"1210 Southwest 136th Street
+                                                                                                       Burien, WA 98166"                                          ,206-257-6600
+washington           ,Providence St Peter Hospital Chemical Dependency Center                         ,"4800 College Street Southeast
+                                                                                                       Lacey, WA 98503"                                           ,360-456-7575
+washington           ,Eastern State Hospital                                                          ,"850 Maple Street
+                                                                                                       Medical Lake, WA 99022"                                    ,509-565-4352
+washington           ,STOP Treatment Center Moses Lake                                                ,"104 West Broadway
+                                                                                                       Moses Lake, WA 98837"                                      ,509-855-9494
+washington           ,Diane Hutcheson ARNP Avalon Center                                              ,"19655 1st Avenue South Suite 203
+                                                                                                       Normandy Park, WA 98148"                                   ,206-935-6228
+washington           ,Cascade Hall                                                                    ,"204 Northeast 94th Street
+                                                                                                       Seattle, WA 98115"                                         ,206-461-4580
+washington           ,Alternative Counseling Spanaway                                                 ,"17002 Pacific Avenue South
+                                                                                                       Spanaway, WA 98387"                                        ,253-538-2323
+washington           ,Pacific Northwest Adult and Teen Challenge Spokane Campus                       ,"2400 North Craig Road
+                                                                                                       Spokane, WA 99224"                                         ,509-244-5610
+washington           ,New Connections Irmas House                                                     ,"613 South 15th Street
+                                                                                                       Tacoma, WA 98405"                                          ,253-617-1405
+washington           ,Astria Toppenish Hospital                                                       ,"502 West 4th Avenue
+                                                                                                       Toppenish, WA 98948"                                       ,509-865-3105
+washington           ,Cascade Behavioral Health                                                       ,"12844 Military Road South
+                                                                                                       Tukwila, WA 98168"                                         ,206-745-4473
+washington           ,Western Psychological and Counseling Services 51st street                       ,"7507 Northeast 51st Street
+                                                                                                       Vancouver, WA 98662"                                       ,360-906-1190
+washington           ,Center for Counseling and Psychotherapy                                         ,"1015 South 40th Avenue Suite 21-23
+                                                                                                       Yakima, WA 98908"                                          ,509-966-7246
+washington           ,Comprehensive Healthcare Horizons Club                                          ,"220 West 4th Avenue
+                                                                                                       Ellensburg, WA 98926"                                      ,509-925-1372
+washington           ,New Start Clinics – Spokane Valley                                              ,"6614 E Main Ave
+                                                                                                       Spokane Valley, WA 99212"                                  ,5093162438
+washington           ,Intercept Associates                                                            ,"30620 Pacific Highway South Suite 107
+                                                                                                       Federal Way, WA 98003"                                     ,253-941-7555
+washington           ,Trilogy Recovery Community Walla Walla                                          ,"120 East Birch Street Suite 14
+                                                                                                       Walla Walla, WA 99362"                                     ,509-876-4525
+washington           ,Triumph Parkway Place Transitional Housing                                      ,"122 South 3rd Street
+                                                                                                       Yakima, WA 98901"                                          ,509-248-1800
+washington           ,Lifeline Connections Bellingham Office                                          ,"4120 Meridian Street Ste. 220
+                                                                                                       Bellingham, WA 98226"                                      ,360-922-3030
+washington           ,Ideal Option Spokane Valley                                                     ,"1215 N McDonald Rd
+                                                                                                       Ste. 201
+                                                                                                       Spokane Valley, WA 99216"                                  ,877-522-1275
+washington           ,Lakeside Milam Everett                                                          ,"9930 Evergreen Way Bldg X, Suite 103
+                                                                                                       Everett, WA 98204"                                         ,425-267-9573
+washington           ,Eleanor Health                                                                  ,"4310 Colby Ave Suite 201
+                                                                                                       Everett, WA 98203"                                         ,8664650590
+washington           ,MDC The Center for Substance Abuse Recovery                                     ,"721 Fawcett Avenue Suite 201
+                                                                                                       Tacoma, WA 98402"                                          ,253-593-2740
+washington           ,Northpoint Seattle                                                              ,"2111 North Northgate Way No 102A
+                                                                                                       Seattle, WA 98005"                                         ,425-800-6798
+washington           ,Compass Health Coupeville                                                       ,"20 Northwest 1st Street
+                                                                                                       Coupeville, WA 98239"                                      ,360-678-5555
+washington           ,BAART Programs Bremerton                                                        ,"1520 NE Riddell Rd Ste 110
+                                                                                                       Bremerton, WA 98310"                                       ,360-228-7246
+washington           ,2nd Chance Recovery Center                                                      ,"235 Southwest 153rd Street
+                                                                                                       Burien, WA 98166"                                          ,206-242-4915
+washington           ,Northwest Indian Treatment Center                                               ,"308 East Young Street
+                                                                                                       Elma, WA 98541"                                            ,360-482-2674
+washington           ,American Behavioral Health Systems                                              ,"12715 East Mission Avenue
+                                                                                                       Spokane Valley, WA 99216"                                  ,509-232-5766
+washington           ,Compass Health Mukilteo Evaluation and Treatment                                ,"10710 Mukilteo Speedway
+                                                                                                       Mukilteo, WA 98275"                                        ,425-349-8888
+washington           ,STOP Treatment Center Kent                                                      ,"610 West Meeker Street Suite 103
+                                                                                                       Kent, WA 98032"                                            ,253-234-1190
+washington           ,Ideal Option Kennewick                                                          ,"8508 West Gage Boulevard Suite A101
+                                                                                                       Kennewick, WA 99336"                                       ,877-522-1275
+washington           ,Fairfax Behavioral Health Everett                                               ,"916 Pacific Avenue
+                                                                                                       Everett, WA 98201"                                         ,425-446-3000
+washington           ,Sound Integrated Health                                                         ,"131 SW 156th St Suite 100
+                                                                                                       Burien, WA 98166"                                          ,253-478-0827
+washington           ,Everett Treatment Services                                                      ,"7207 Evergreen Way Ste P
+                                                                                                       Everett, WA 98203"                                         ,425-347-9070
+washington           ,Tri Cities Community Health                                                     ,"515 W Court St
+                                                                                                       Pasco, WA 99301"                                           ,509-547-2204
+washington           ,NW Family Recovery Solutions                                                    ,"710 Bay St
+                                                                                                       Port Orchard, WA 98366"                                    ,844-701-9974
+washington           ,American Behavioral Health Systems                                              ,"12715 East Mission Avenue
+                                                                                                       Spokane Valley, WA 99216"                                  ,509-232-5766
+washington           ,Quality Behavioral Health Clarkston                                             ,"900 7th Street
+                                                                                                       Clarkston, WA 99403"                                       ,509-758-3341
+washington           ,Triumph Treatment Services CDAC                                                 ,"120 S. 3rd St.
+                                                                                                       Yakima, WA 98901"                                          ,509-248-1800
+washington           ,New Start Clinics Yakima                                                        ,"611 North 1st Street
+                                                                                                       Yakima, WA 98901"                                          ,5093162357
+washington           ,Triumph Treatment Services Inspirations                                         ,"3300 Roosevelt Avenue
+                                                                                                       Yakima, WA 98902"                                          ,509-571-1455
+washington           ,Ideal Option Everett                                                            ,"4301 Hoyt Ave
+                                                                                                       Everett, WA 98203"                                         ,877-522-1275
+washington           ,Pacific Northwest Adult and Teen Challenge Seattle Metro Campus for Men         ,"18611 148th Avenue Southeast
+                                                                                                       Renton, WA 98058"                                          ,425-226-2608
+washington           ,Sound Mental Health Northgate                                                   ,"9706 4th Avenue Northeast Suite 303
+                                                                                                       Seattle, WA 98115"                                         ,206-302-2900
+washington           ,Lifeline Connections Crisis Wellness Center                                     ,"5197 Northwest Lower River Road Building 1
+                                                                                                       Vancouver, WA 98660"                                       ,360-205-1222
+washington           ,Lakewood Comprehensive Treatment Center                                         ,"9500 Front Street Suite 100
+                                                                                                       Lakewood, WA 98499"                                        ,855-447-7802
+washington           ,Port Gardner Bay Recovery                                                       ,"2722 Colby Avenue Suite 515
+                                                                                                       Everett, WA 98201"                                         ,425-252-4656
+washington           ,Eugenia Center Substance Use Disorder Center                                    ,"151 North Market Boulevard
+                                                                                                       Ste A
+                                                                                                       Chehalis, WA 98532"                                        ,360-740-9767
+washington           ,Social Treatment Opportunity Programs Kent                                      ,"610 W Meeker St Suite 103
+                                                                                                       Kent, WA 98032"                                            ,253-234-1190
+washington           ,Family Therapy and Recovery                                                     ,"615 2nd St.
+                                                                                                       Tacoma, WA 98403"                                          ,253-220-9452
+washington           ,Sequoia Detox Centers                                                           ,"10305 E Montgomery Dr
+                                                                                                       Spokane Valley, WA 99206"                                  ,8668240709
+washington           ,THS Therapeutic Health Services Everett                                         ,"9930 Evergreen Way Building Z-150
+                                                                                                       Everett, WA 98204"                                         ,425-347-5121
+washington           ,Northwest Integrated Health – North Tacoma                                      ,"5929 Westgate Blvd Ste A
+                                                                                                       Tacoma, WA 98406"                                          ,253-503-0226
+washington           ,Riverton Place                                                                  ,"3020 South 128th Street
+                                                                                                       Burien, WA 98168"                                          ,206-242-5585
+washington           ,Family Health Center North Beach Clinic                                         ,"21610 Pacific Highway
+                                                                                                       Ocean Park, WA 98640"                                      ,360-665-3000
+washington           ,Avalon Center                                                                   ,"6957 California Avenue Southwest
+                                                                                                       Seattle, WA 98136"                                         ,206-935-6228
+washington           ,Fort Lewis Army Substance Abuse Program                                         ,"Building 2006 A Room 211
+                                                                                                       Tacoma, WA 98433"                                          ,253-968-4851
+washington           ,Tulalip Health System Behavioral Health                                         ,"2821 Mission Hill Road
+                                                                                                       Tulalip, WA 98271"                                         ,360-716-4347
+washington           ,Northwest Resources One                                                         ,"33438 1st Way S
+                                                                                                       Federal Way, WA 98003"                                     ,206-824-9273
+washington           ,Northwest Integrated Health – Lakewood                                          ,"9720 S Tacoma Way
+                                                                                                       Lakewood, WA 98499"                                        ,253-503-3666
+washington           ,LifeStance Health Vancouver on 51st                                             ,"7507 NE 51st St #6007
+                                                                                                       Vancouver, WA 98662"                                       ,360-906-1190
+washington           ,Federal Way VA Clinic                                                           ,"34617 11th Place South
+                                                                                                       Federal Way, WA 98003"                                     ,253-336-4142
+washington           ,Bridges Treatment and Recovery Ferndale                                         ,"6044 Portal Way Suite 103
+                                                                                                       Ferndale, WA 98248"                                        ,360-393-4218
+washington           ,Colville Tribal Alcohol and Drug Program Keller                                 ,"11669 Washington 21
+                                                                                                       Keller, WA 99140"                                          ,509-634-2260
+washington           ,A Brighter Tomorrow Counseling Service                                          ,"7511 Custer Road West
+                                                                                                       Lakewood, WA 98499"                                        ,253-507-8367
+washington           ,Evergreen Treatment Services South Sound Clinic                                 ,"6700 Martin Way East Suite 117
+                                                                                                       Olympia, WA 98516"                                         ,360-413-6910
+washington           ,Foundation for Multicultural Solutions El Camino Program                        ,"2316 South State Street Suite B
+                                                                                                       Tacoma, WA 98405"                                          ,253-572-3214
+washington           ,Nueva Vida Counseling                                                           ,"402 West 1st Avenue
+                                                                                                       Toppenish, WA 98948"                                       ,509-865-9034
+washington           ,True North Student Assistance and Treatment Service Thurston County             ,"6005 Tyee Drive Southwest
+                                                                                                       Tumwater, WA 98512"                                        ,360-464-6867
+washington           ,Freedom Recovery                                                                ,"715 East Yelm Avenue Suite 6
+                                                                                                       Yelm, WA 98597"                                            ,360-960-8595
+washington           ,Lourdes Desert Hope                                                             ,"1020 S 7th Ave
+                                                                                                       Pasco, WA 99301"                                           ,509-547-9000
+washington           ,Royal Life Centers Federal Way                                                  ,"1723 Bonney Ave
+                                                                                                       Sumner, WA 98390"                                          ,877-732-6837
+washington           ,Child Study and Treatment Center                                                ,"8805 Steilacoom Boulevard Southwest
+                                                                                                       Lakewood, WA 98498"                                        ,253-756-2504
+washington           ,American Behavioral Health Systems Western Washington                           ,"1550 Irving Street Southwest
+                                                                                                       Olympia, WA 98512"                                         ,360-507-8030
+washington           ,Peninsula Behavioral Health Front Street Clinic                                 ,"621 East Front Street
+                                                                                                       Port Angeles, WA 98362"                                    ,360-912-8133
+washington           ,ABHC Associated Behavioral Health Care West Seattle                             ,"4711 44th Avenue Southwest Suite A
+                                                                                                       Seattle, WA 98116"                                         ,206-935-1282
+washington           ,Jonathan M Wainwright Memorial VA Medical Center                                ,"77 Wain Wright Drive
+                                                                                                       Walla Walla, WA 99362"                                     ,509-525-5200
+washington           ,Antioch Counseling and Treatment Services ACTS Redmond                          ,"12316 134th Court Northeast
+                                                                                                       Redmond, WA 98052"                                         ,425-284-2652
+washington           ,Valley Cities Kent                                                              ,"325 W Gowe St
+                                                                                                       Kent, WA 98032"                                            ,253-833-7444
+washington           ,Kaiser Permanente Cascade Park Medical Office                                   ,"12607 SE Mill Plain Blvd
+                                                                                                       Vancouver, WA 98684"                                       ,800-813-2000
+washington           ,Lincoln County Alcohol and Drug Center                                          ,"505 First Street Suite A
+                                                                                                       Davenport, WA 99122"                                       ,509-725-2111
+washington           ,Enumclaw Youth and Family Services                                              ,"1356 Cole Street
+                                                                                                       Enumclaw, WA 98022"                                        ,360-825-4586
+washington           ,Fresh Start Housing Olympia                                                     ,"3403 Steamboat Island Road
+                                                                                                       Olympia, WA 98502"                                         ,360-481-6949
+washington           ,Sea Mar Community Health Center Olympia Medical Clinic                          ,"3030 Limited Lane Northwest
+                                                                                                       Olympia, WA 98502"                                         ,360-491-1399
+washington           ,Discovery Behavioral Healthcare                                                 ,"884 West Park Avenue
+                                                                                                       Port Townsend, WA 98368"                                   ,360-385-0321
+washington           ,Guardian Recovery Program                                                       ,"4812 Aurora Avenue North
+                                                                                                       Seattle, WA 98103"                                         ,509-293-9466
+washington           ,MGA Crisis Intervention                                                         ,"3628 Meridian St #139
+                                                                                                       Bellingham, WA 98225"                                      ,360-200-5658
+washington           ,Whatcom Community Detox                                                         ,"2030 Division St
+                                                                                                       Bellingham, WA 98226"                                      ,360-676-2020
+washington           ,Northwest Integrated Health – South Tacoma                                      ,"3727 S Tacoma Way
+                                                                                                       Tacoma, WA 98409"                                          ,253-300-7474
+washington           ,Newport Academy Port Townsend                                                   ,"3804 Hastings Ave W
+                                                                                                       Port Townsend, WA 98368"                                   ,844-277-3533
+washington           ,Navos Lake Burien Health Center for Youth                                       ,"1033 Southwest 152nd Street
+                                                                                                       Burien, WA 98166"                                          ,206-242-1698
+washington           ,Advanced Comprehensive Treatment                                                ,"616 Valley Mall Parkway B
+                                                                                                       East Wenatchee, WA 98802"                                  ,509-884-1020
+washington           ,Teen Challenge Graham Womens Campus                                             ,"21115 92nd Avenue East
+                                                                                                       Graham, WA 98338"                                          ,253-846-0888
+washington           ,Behavioral Health Resources Hoquiam                                             ,"205 8th Street
+                                                                                                       Hoquiam, WA 98550"                                         ,360-236-5328
+washington           ,Asian Counseling Treatment Services Lynnwood                                    ,"4629 168th Street Southwest Suite E
+                                                                                                       Lynnwood, WA 98037"                                        ,425-776-1290
+washington           ,Klallam Counseling Services                                                     ,"243613 Hwy 101 West
+                                                                                                       Port Angeles, WA 98362"                                    ,360-452-4432
+washington           ,Sound Mental Health Stillwater House                                            ,"8705 166th Avenue Northeast
+                                                                                                       Redmond, WA 98052"                                         ,206-901-2000
+washington           ,Alternatives Seattle                                                            ,"3123 Eastlake Avenue East Suite 100
+                                                                                                       Seattle, WA 98102"                                         ,206-323-4750
+washington           ,Seattle Counseling Services                                                     ,"2033 6th Avenue
+                                                                                                       Seattle, WA 98121"                                         ,206-323-1768
+washington           ,Raging River Recovery Center                                                    ,"9575 Ethan Wade Way Southeast
+                                                                                                       Snoqualmie, WA 98065"                                      ,425-831-5425
+washington           ,ABSOLUTE Ministries                                                             ,"1402 Lake Tapps Pkwy SE
+                                                                                                       Auburn, WA 98092"                                          ,877-306-5799
+washington           ,Ideal Option Auburn                                                             ,"1811 Howard Rd Suite 101
+                                                                                                       Auburn, WA 98002"                                          ,877-522-1275
+washington           ,Lummi Counseling Services                                                       ,"2694 Kwina Rd
+                                                                                                       Bellingham, WA 98226"                                      ,360-380-6945
+washington           ,Trillium Treatment Center                                                       ,"528 W 8th St
+                                                                                                       Port Angeles, WA 98362"                                    ,360-457-9200
+washington           ,NW Family Recovery Solutions                                                    ,"710 Bay St
+                                                                                                       Port Orchard, WA 98366"                                    ,844-701-9974
+washington           ,Square One                                                                      ,"16310 NE 80th St
+                                                                                                       Redmond, WA 98052"                                         ,425-689-5170
+washington           ,Ideal Option Vancouver on 131st                                                 ,"406 SE 131st Ave #104
+                                                                                                       Vancouver, WA 98683"                                       ,877-522-1275
+State_Name           ,Name                                                                            ,Address                                                    ,Contact
+district-of-columbia ,Family and Medical Counseling Services                                          ,"2041 Martin Luther King Junior Avenue Southeast 3rd Floor
+                                                                                                       Washington, DC 20020"                                      ,202-889-7900
+district-of-columbia ,Samaritan Inns                                                                  ,"2523 14th Street Northwest
+                                                                                                       Washington, DC 20009"                                      ,202-667-8831
+district-of-columbia ,The Better Way Program                                                          ,"4601 Sheriff Rd NE ward 7
+                                                                                                       Washington, DC 20019"                                      ,202-396-4290
+district-of-columbia ,Regional Addiction Prevention RAP Residential and Outpatient Treatment Facility ,"1949 4th Street Northeast Ward 5
+                                                                                                       Washington, DC 20002"                                      ,202-462-7500
+district-of-columbia ,Salvation Army Harbor Light Center                                              ,"2100 New York Ave NE #5B
+                                                                                                       Washington, DC 20002"                                      ,202-269-6333
+district-of-columbia ,Behavioral Health Group BHG                                                     ,"1320 Good Hope Road Southeast
+                                                                                                       Washington, DC 20020"                                      ,202-610-1886
+district-of-columbia ,Life Stride                                                                     ,"3005 Bladensburg Road Northeast
+                                                                                                       Washington, DC 20018"                                      ,202-635-2320
+district-of-columbia ,Clean and Sober Street 2 North                                                  ,"425 2nd Street Northwest
+                                                                                                       Washington, DC 20001"                                      ,202-783-7343
+district-of-columbia ,Kolmac Outpatient Recovery Centers                                              ,"1411 K Street Northwest Suite 703
+                                                                                                       Washington, DC 20005"                                      ,888-290-1979
+district-of-columbia ,The Calvin Rolark Center                                                        ,"1949 4th St NE
+                                                                                                       Washington, DC 20002"                                      ,202-462-7500
+district-of-columbia ,Andromeda Transcultural Health                                                  ,"1400 Decatur Street Northwest
+                                                                                                       Washington, DC 20011"                                      ,202-291-4707
+district-of-columbia ,MedStar Health Outpatient Behavioral Health at Washington                       ,"216 Michigan Avenue Northeast
+                                                                                                       Washington, DC 20017"                                      ,202-877-6333
+district-of-columbia ,Federal City Recovery Services                                                  ,"601 Raleigh Place Southeast
+                                                                                                       Washington, DC 20032"                                      ,202-735-5579
+district-of-columbia ,Whitman Walker Health                                                           ,"1525 14th Street Northwest
+                                                                                                       Washington, DC 20005"                                      ,202-939-7623
+district-of-columbia ,The Palisades House Men’s Sober Living                                          ,"1638 R St NW
+                                                                                                       Washington, DC 20009"                                      ,800-678-1797
+district-of-columbia ,Addiction Prevention & Recovery Administration                                  ,"64 New York Ave NW
+                                                                                                       Washington, DC 20002"                                      ,202-442-5955
+district-of-columbia ,Aquila Recovery Clinic                                                          ,"5101 Wisconsin Ave Suite 325
+                                                                                                       Washington, DC 20016"                                      ,20- 618-9125
+district-of-columbia ,Psychiatric Institute of Washington                                             ,"4228 Wisconsin Avenue Northwest
+                                                                                                       Washington, DC 20016"                                      ,800-369-2273
+district-of-columbia ,Providence Health Services Care Center My Health GPS                            ,"1150 Varnum Street Northeast
+                                                                                                       Washington, DC 20017"                                      ,202-854-4477
+district-of-columbia ,Family Preservation Services of DC                                              ,"3341 Benning Road Northeast
+                                                                                                       Washington, DC 20019"                                      ,202-543-0387
+district-of-columbia ,Neighbors Consejo Metropolitan Medical Center                                   ,"6323 Georgia Avenue Northwest Suite 206
+                                                                                                       Washington, DC 20011"                                      ,202-234-6855
+district-of-columbia ,Safe Haven Outreach Ministry                                                    ,"1140 North Capitol Street Northwest Suite 924
+                                                                                                       Washington, DC 20002"                                      ,202-589-1505
+district-of-columbia ,Meyer Treatment Center of The Washington School of Psychiatry                   ,"5028 Wisconsin Avenue Suite 400
+                                                                                                       Washington, DC 20016"                                      ,202-237-2700
+district-of-columbia ,Next Step                                                                       ,"2112 F Street Northwest Suite 404
+                                                                                                       Washington, DC 20037"                                      ,202-868-6408
+district-of-columbia ,La Clinica Del Pueblo 15th Street                                               ,"2831 15th Street Northwest
+                                                                                                       Washington, DC 20009"                                      ,202-462-4788
+district-of-columbia ,McClendon Center Day Program and Administrative                                 ,"1313 New York Avenue Northwest 5th Floor
+                                                                                                       Washington, DC 20005"                                      ,202-737-6191
+district-of-columbia ,Saint Elizabeths Hospital Alabama Avenue                                        ,"1100 Alabama Avenue Southeast
+                                                                                                       Washington, DC 20032"                                      ,202-299-5100
+district-of-columbia ,Partners in Drug Abuse and Counseling PIDARC                                    ,"2112 F Street Northwest Suite 102
+                                                                                                       Washington, DC 20037"                                      ,202-296-4455
+district-of-columbia ,Circles of Hope                                                                 ,"3000 Connecticut Avenue Northwest Suite 321
+                                                                                                       Washington, DC 20008"                                      ,202-265-2343
+district-of-columbia ,PSI Family Services                                                             ,"770 M Street Southeast
+                                                                                                       Washington, DC 20003"                                      ,202-547-3870
+district-of-columbia ,Family Matters of Greater Washington                                            ,"1509 16th Street Northwest
+                                                                                                       Washington, DC 20036"                                      ,202-289-1510
